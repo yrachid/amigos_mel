@@ -1,0 +1,36 @@
+.formulario-amigo {
+  background-color: #F64747;
+  width: 700px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+  .formulario-amigo input {
+    border:0;
+    height: 27px;
+  }
+
+.form-group, .submit-wrapper {
+  display: block;
+  margin-bottom: 10px;
+}
+  .form-group label {
+    display: block;
+    width: 80px;
+    height: 30px;
+    font-size: 20px;
+  }
+
+  .form-group input {
+    display: block;
+    width: 650px;
+  }
+
+.submit-button {
+  border:0;
+  height: 40px;
+  width: 170px;
+  background-color: #C8F7C5;
+  color: #C0392B;
+  font-size: 17px;
+}

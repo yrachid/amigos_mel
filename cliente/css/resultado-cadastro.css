@@ -1,0 +1,18 @@
+main {
+  text-align: center;
+}
+
+.error-list {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.error-message {
+  background-color: #FFF;
+  color:#C92D2D;
+  width: 500px;
+  height: 30px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}

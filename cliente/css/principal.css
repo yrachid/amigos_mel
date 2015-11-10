@@ -1,0 +1,19 @@
+body {
+  background-color: #C0392B;
+  color: #E4F1FE;
+  font-family: 'Raleway', sans-serif;
+}
+
+body header {
+  text-align: center;
+}
+
+.link-button {
+  color: #C0392B;
+  text-decoration: none;
+  background-color: #E4F1FE;
+  padding: 10px;
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+}
